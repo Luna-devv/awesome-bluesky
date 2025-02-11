@@ -61,6 +61,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Blue Bots, Done Quick!](https://bluebotsdonequick.com/) - Create your own Bluesky bot!
  - [Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979) - Cross-post to Bluesky, Threads and Mastodon - iOS
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
+ - [Wamellow Discord Bot](https://wamellow.com/docs/notifications) - Get Bluesky posts into Discord, as they happen, with filters and pings
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
